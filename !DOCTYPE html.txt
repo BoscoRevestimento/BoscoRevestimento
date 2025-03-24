@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revestimentos & Instalação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background: #218838;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Revestimentos & Instalação
+    </header>
+    <div class="container">
+        <h2>Venda e instalação de revestimentos de qualidade</h2>
+        <p>Trabalhamos com os melhores materiais e mão de obra especializada para transformar seu ambiente.</p>
+        <a class="btn" href="https://wa.me/seunumero" target="_blank">Fale Conosco no WhatsApp</a>
+    </div>
+    <footer>
+        &copy; 2025 Revestimentos & Instalação - Todos os direitos reservados.
+    </footer>
+</body>
+</html>
